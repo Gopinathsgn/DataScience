@@ -17,3 +17,6 @@ Applications for Social Network prediction
  Recommendation of interesting persons and resources
  Movie Analysis from the Perspective of Social Networks
   Stock Prediction Based on Social Network
+
+
+https://www.geeksforgeeks.org/twitter-sentiment-analysis-using-python/
